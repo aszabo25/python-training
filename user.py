@@ -1,3 +1,5 @@
+# Felhasználói bevitelt tartalmazó feladatok
+
 # input függvény
 # paraméter: mit kell kiírni 
 # visszatérési érték: felhasználó által beírt érték
